@@ -1,0 +1,6 @@
+# ImageViewer
+this is basic image viewer made by using tkinter and pillow library .
+
+
+please make sue to install pillow library before running this code  ....
+ this project is made by yogesh singh , admin of insatgram page dynamic_codeing ....
