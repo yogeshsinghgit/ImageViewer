@@ -20,7 +20,7 @@ class ImageView(object):
 
 		# image list 
 		self.Image_list = []
-		# current path
+		# current path you can use here your default path ok bro .... 
 		self.path ="C:\\Users\\alex\\Downloads"
 		# possible extensions of images
 		self.extension = ['JPG','BMP','PNG']
